@@ -9,11 +9,18 @@
     <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://willamistech.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Primeiro Post</title>
+      <title>Crie Sua Máquina Virtual Sem Programas: Aprenda a Usar a Sandbox do Windows</title>
       <link>https://willamistech.github.io/posts/primeiro-post/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://willamistech.github.io/posts/primeiro-post/</guid>
-      <description>&lt;p&gt;Meu blog Hugo com o tema Ananke está funcionando 🚀&lt;/p&gt;</description>
+      <description>&lt;p&gt;A Sandbox do Windows é uma ferramenta útil que permite executar aplicativos em um ambiente isolado, protegendo seu sistema principal de possíveis ameaças.&lt;/p&gt;&#xA;&lt;p&gt;Um ambiente Sandbox é uma ferramenta poderosa que permite testar e executar aplicativos de forma isolada, sem afetar o sistema operacional principal. Aqui estão algumas coisas que você pode fazer com uma Sandbox:&lt;/p&gt;&#xA;&lt;p&gt;Testar Software Desconhecido&#xA;Navegação Segura&#xA;Desenvolvimento e Testes&#xA;Treinamento e Aprendizado&#xA;Isolamento de Tarefas Sensíveis&#xA;Experimentos com Configurações do Sistema&#xA;Veja o passo a passo:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Como versionar um projeto Hugo no GitHub usando GitHub Desktop (sem dor de cabeça)</title>
+      <link>https://willamistech.github.io/posts/segundo-post/</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://willamistech.github.io/posts/segundo-post/</guid>
+      <description>&lt;p&gt;Quando começamos a trabalhar com sites estáticos usando Hugo, uma das primeiras dúvidas é como versionar o projeto corretamente no GitHub — sem confundir código-fonte com build e sem quebrar a estrutura do repositório.&lt;/p&gt;&#xA;&lt;p&gt;Neste post, vou mostrar o fluxo simples e funcional que utilizo para enviar um projeto Hugo local para o GitHub usando o GitHub Desktop, evitando erros comuns.&lt;/p&gt;&#xA;&lt;p&gt;Estrutura correta do projeto&lt;/p&gt;&#xA;&lt;p&gt;No meu ambiente, separo claramente código-fonte e build:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
